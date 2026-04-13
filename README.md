@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Currently building **real-world web projects**
+- 🔭 Currently building **Portfolios and ecommerce projects for practice**
 - 🌱 Learning **JavaScript, Node.js, PostgreSQL**
 - 💡 Exploring **AI + 3D Web + Backend Systems**
 - 🎯 Goal: **Become a top Full Stack Developer**
@@ -47,32 +47,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="#">LinkedIn</a> • 
-  <a href="#">Portfolio</a> • 
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="www.linkedin.com/in/rehan-ilyas-6976793a7">LinkedIn</a> • 
+  <a href="mailto:rehanilyas20196email@example.com">Email</a>
 </p>
 
 ---
 
-## 💡 Featured Project (Coming Soon)
-```js
-const rehan = {
-  currentFocus: "Full Stack Development",
-  learning: ["JavaScript", "Node.js", "Databases"],
-  goal: "Build powerful web applications 🚀"
-};## Hi there 👋
-
-<!--
-**rehanilyas20196-design/rehanilyas20196-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\
